@@ -1,5 +1,14 @@
-# Indoor-Air-quality-systems
-Project
+# Indoor-Air-quality-systems![Indoor air qulity system](https://github.com/NITHISHKUMAR0107-M/Indoor-Air-quality-systems/assets/127758446/a466dda9-e558-4ef3-b0ff-a549efe31e5b)
+
+Project![Air quality level dashboard](https://github.com/NITHISHKUMAR0107-M/Indoor-Air-quality-systems/assets/127758446/ba283075-68e2-405a-8ce1-b9bb3726abe2)
+[air quality abstract.txt](https://github.com/NITHISHKUMAR0107-M/Indoor-Air-quality-systems/files/15223756/air.quality.abstract.txt)
+
+IoT BASED INDOOR AIR QUALITY MONITORING SYSTEM
+
+
+Abstract:
+Air pollution is a major concern across the globe due to its negative impact on public health and the environment. Particulate matter (PM) is one of the primary pollutants that contribute to air pollution. PM2.5, which refers to particles with a diameter less than or equal to 2.5 microns, is particularly harmful to human health as it can penetrate deep into the lungs and bloodstream. Hence, it is crucial to monitor the levels of PM2.5 in the air. This concept presents the design and implementation of a PM2.5 sensor using a NodeMCU microcontroller and a laser sensor. The sensor measures the concentration of PM1, PM2.5, and PM10 particles in the air and transmits the data to the Thingsboard cloud platform via the MQTT protocol. The collected data is then visualized in a beautiful dashboard, which enables users to monitor the air quality in real-time. The design and implementation of the PM2.5 sensor involve several steps, including the calibration of the laser sensor, the configuration of the NodeMCU microcontroller, and the integration of the sensor with the Thingsboard platform. The paper provides a detailed description of each step and the challenges encountered during the implementation process. The results of the implementation show that the PM2.5 sensor can accurately measure the concentration of PM1, PM2.5, and PM10 particles in the air. The data transmitted to the Thingsboard platform is visualized in a beautiful dashboard that provides real-time monitoring of air quality. The dashboard includes several features, such as historical data analysis, alerts, and notifications, which enable users to take appropriate actions in cases of high pollution levels. The implementation of the PM2.5 sensor using a NodeMCU microcontroller and a laser sensor, integrated with the Thingsboard cloud platform, provides an effective solution for monitoring air quality in real-time. The beautiful dashboard provides a user-friendly interface for visualizing the collected data and taking appropriate actions to mitigate the effects of air pollution.
+
 #include <ESP8266WiFi.h> // For ESP8266
 // OR
 // #include <WiFi.h> // For ESP32
